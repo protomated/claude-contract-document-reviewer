@@ -1,6 +1,6 @@
 {
   "name": "contract-document-reviewer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Contract & Document Reviewer — Claude Desktop plugin that reviews a contract clause by clause against a configurable playbook, flagging each clause GREEN/YELLOW/RED with suggested redline language, for solo and small-firm attorneys",
   "private": true,
   "scripts": {

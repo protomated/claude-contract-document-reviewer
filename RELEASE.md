@@ -1,6 +1,6 @@
-# Contract & Document Reviewer v1.0.0
+# Contract & Document Reviewer v1.0.1
 
-Initial release.
+Adds Legal Builder Hub freshness frontmatter (`freshness_category: stylistic`). No functional changes.
 
 ## What's included
 

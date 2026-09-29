@@ -2,6 +2,9 @@
 name: contract-review
 description: Review a contract clause by clause against a configurable playbook — your firm's own playbook.md if attached, or this plugin's bundled generic playbook if not. Rates each clause GREEN, YELLOW, RED, or UNRATED with plain-English rationale tied to the playbook, and suggests redline language for anything that isn't GREEN. Attorney reviews and confirms every rating before it's used in negotiation.
 argument-hint: "[optional: which contract to review, if more than one is attached — the skill asks if you don't specify]"
+last_verified: 2026-09-29
+freshness_window: 12 months
+freshness_category: stylistic
 ---
 
 # /contract-review — Contract & Document Review
