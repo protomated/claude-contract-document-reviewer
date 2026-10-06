@@ -1,6 +1,6 @@
-# Contract & Document Reviewer v1.0.1
+# Contract & Document Reviewer
 
-Adds Legal Builder Hub freshness frontmatter (`freshness_category: stylistic`). No functional changes.
+Confirmed working in ChatGPT Desktop in addition to Claude Desktop — attach files directly to the conversation since ChatGPT has no Filesystem connector. Removed the hardcoded "(Claude Desktop)" wording from the skill's own output footer.
 
 ## What's included
 

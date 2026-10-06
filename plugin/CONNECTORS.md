@@ -18,3 +18,7 @@ The plugin reviews those files and presents its clause-by-clause findings, with 
 The plugin processes the files in your attached folder within your Claude Desktop / Cowork conversation under your Claude plan's data handling terms. No contract text, playbook positions, or reviews are transmitted to Protomated or any third party.
 
 For confidential client or matter information: confirm you are on Claude for Work, Claude Team, or Claude Enterprise before attaching a folder with contract or client details. See the main README for plan requirements.
+
+## Using this in ChatGPT Desktop
+
+This skill also works in ChatGPT Desktop. There's no Filesystem connector to attach there — instead, attach the contract (and your playbook, if you have one) directly to the conversation before running the skill.
